@@ -1,0 +1,60 @@
+C:\Documents and Settings\hungnl\My Documents\Visual Studio 2008\Projects\xylyanh\xylyanh\bin\Debug\xylyanh.exe
+C:\Documents and Settings\hungnl\My Documents\Visual Studio 2008\Projects\xylyanh\xylyanh\bin\Debug\xylyanh.pdb
+C:\Documents and Settings\hungnl\My Documents\Visual Studio 2008\Projects\xylyanh\xylyanh\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\hungnl\My Documents\Visual Studio 2008\Projects\xylyanh\xylyanh\obj\Debug\xylyanh.Form1.resources
+C:\Documents and Settings\hungnl\My Documents\Visual Studio 2008\Projects\xylyanh\xylyanh\obj\Debug\xylyanh.Properties.Resources.resources
+C:\Documents and Settings\hungnl\My Documents\Visual Studio 2008\Projects\xylyanh\xylyanh\obj\Debug\xylyanh.csproj.GenerateResource.Cache
+C:\Documents and Settings\hungnl\My Documents\Visual Studio 2008\Projects\xylyanh\xylyanh\obj\Debug\xylyanh.exe
+C:\Documents and Settings\hungnl\My Documents\Visual Studio 2008\Projects\xylyanh\xylyanh\obj\Debug\xylyanh.pdb
+C:\Documents and Settings\welcome\Desktop\gui co nga\chuong trinh\xylyanh\obj\Debug\xylyanh.exe
+C:\Documents and Settings\welcome\Desktop\gui co nga\chuong trinh\xylyanh\obj\Debug\xylyanh.pdb
+C:\Documents and Settings\welcome\Desktop\gui co nga\chuong trinh\xylyanh\bin\Debug\xylyanh.exe
+C:\Documents and Settings\welcome\Desktop\gui co nga\chuong trinh\xylyanh\bin\Debug\xylyanh.pdb
+C:\Documents and Settings\welcome\Desktop\gui co nga\chuong trinh\xylyanh\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\welcome\Desktop\gui co nga\chuong trinh\xylyanh\obj\Debug\xylyanh.Form1.resources
+C:\Documents and Settings\welcome\Desktop\gui co nga\chuong trinh\xylyanh\obj\Debug\xylyanh.Properties.Resources.resources
+C:\Documents and Settings\welcome\Desktop\gui co nga\chuong trinh\xylyanh\obj\Debug\xylyanh.csproj.GenerateResource.Cache
+D:\tai lieu di day\dh cong nghiep\gui co nga\chuong trinh\xylyanh\obj\Debug\xylyanh.exe
+D:\tai lieu di day\dh cong nghiep\gui co nga\chuong trinh\xylyanh\obj\Debug\xylyanh.pdb
+D:\tai lieu di day\dh cong nghiep\gui co nga\chuong trinh\xylyanh\bin\Debug\xylyanh.exe
+D:\tai lieu di day\dh cong nghiep\gui co nga\chuong trinh\xylyanh\bin\Debug\xylyanh.pdb
+D:\tai lieu di day\dh cong nghiep\gui co nga\chuong trinh\xylyanh\obj\Debug\ResolveAssemblyReference.cache
+D:\tai lieu di day\dh cong nghiep\gui co nga\chuong trinh\xylyanh\obj\Debug\xylyanh.Form1.resources
+D:\tai lieu di day\dh cong nghiep\gui co nga\chuong trinh\xylyanh\obj\Debug\xylyanh.Properties.Resources.resources
+D:\tai lieu di day\dh cong nghiep\gui co nga\chuong trinh\xylyanh\obj\Debug\xylyanh.csproj.GenerateResource.Cache
+E:\dh cong nghiep\gui co nga\chuong trinh\xylyanh\obj\Debug\xylyanh.exe
+E:\dh cong nghiep\gui co nga\chuong trinh\xylyanh\obj\Debug\xylyanh.pdb
+E:\dh cong nghiep\gui co nga\chuong trinh\xylyanh\bin\Debug\xylyanh.exe
+E:\dh cong nghiep\gui co nga\chuong trinh\xylyanh\bin\Debug\xylyanh.pdb
+E:\dh cong nghiep\gui co nga\chuong trinh\xylyanh\obj\Debug\ResolveAssemblyReference.cache
+E:\dh cong nghiep\gui co nga\chuong trinh\xylyanh\obj\Debug\xylyanh.Form1.resources
+E:\dh cong nghiep\gui co nga\chuong trinh\xylyanh\obj\Debug\xylyanh.Properties.Resources.resources
+E:\dh cong nghiep\gui co nga\chuong trinh\xylyanh\obj\Debug\xylyanh.csproj.GenerateResource.Cache
+D:\dh cong nghiep\bai giang thi dau vao\chuong trinh\xylyanh\obj\Debug\xylyanh.exe
+D:\dh cong nghiep\bai giang thi dau vao\chuong trinh\xylyanh\obj\Debug\xylyanh.pdb
+D:\dh cong nghiep\bai giang thi dau vao\chuong trinh\xylyanh\bin\Debug\xylyanh.exe
+D:\dh cong nghiep\bai giang thi dau vao\chuong trinh\xylyanh\bin\Debug\xylyanh.pdb
+D:\dh cong nghiep\bai giang thi dau vao\chuong trinh\xylyanh\obj\Debug\xylyanh.csprojResolveAssemblyReference.cache
+D:\dh cong nghiep\bai giang thi dau vao\chuong trinh\xylyanh\obj\Debug\xylyanh.Form1.resources
+D:\dh cong nghiep\bai giang thi dau vao\chuong trinh\xylyanh\obj\Debug\xylyanh.Properties.Resources.resources
+D:\dh cong nghiep\bai giang thi dau vao\chuong trinh\xylyanh\obj\Debug\xylyanh.csproj.GenerateResource.Cache
+H:\chuong trinh\xylyanh\bin\Debug\xylyanh.exe
+H:\chuong trinh\xylyanh\bin\Debug\xylyanh.pdb
+H:\chuong trinh\xylyanh\obj\Debug\xylyanh.csprojResolveAssemblyReference.cache
+H:\chuong trinh\xylyanh\obj\Debug\xylyanh.Form1.resources
+H:\chuong trinh\xylyanh\obj\Debug\xylyanh.Properties.Resources.resources
+H:\chuong trinh\xylyanh\obj\Debug\xylyanh.csproj.GenerateResource.Cache
+H:\chuong trinh\xylyanh\obj\Debug\xylyanh.csproj.CoreCompileInputs.cache
+H:\chuong trinh\xylyanh\obj\Debug\xylyanh.exe
+H:\chuong trinh\xylyanh\obj\Debug\xylyanh.pdb
+C:\Users\T8A1\Documents\Visual Studio 2010\Projects\chuong trinh đã xử lý\xylyanh\obj\Debug\xylyanh.exe
+C:\Users\T8A1\Documents\Visual Studio 2010\Projects\chuong trinh đã xử lý\xylyanh\obj\Debug\xylyanh.pdb
+D:\chuong trinh đã xử lý\xylyanh\obj\Debug\xylyanh.exe
+D:\chuong trinh đã xử lý\xylyanh\obj\Debug\xylyanh.pdb
+D:\chuong trinh đã xử lý\xylyanh\bin\Debug\xylyanh.exe
+D:\chuong trinh đã xử lý\xylyanh\bin\Debug\xylyanh.pdb
+D:\chuong trinh đã xử lý\xylyanh\obj\Debug\ResolveAssemblyReference.cache
+D:\chuong trinh đã xử lý\xylyanh\obj\Debug\xylyanh.Form1.resources
+D:\chuong trinh đã xử lý\xylyanh\obj\Debug\xylyanh.Properties.Resources.resources
+E:\Hoc Tap\xylyanh\obj\Debug\xylyanh.exe
+E:\Hoc Tap\xylyanh\obj\Debug\xylyanh.pdb
